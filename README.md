@@ -1,8 +1,16 @@
+<div align="center">
+
 # GALLINA PINTA SONORENSE
-###### (Para 6 a 8 personas)
-<br>
+
+</div>
+
+<p align ="center">
+<img src="images/sopa_01.jpg" width="500">
+</p>
 
 <div align ="center">
+
+###### (Para 6 a 8 personas)
 
 | Ingredientes |
 |:------------:|
