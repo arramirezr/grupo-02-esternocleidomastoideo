@@ -46,8 +46,6 @@ Ingredientes
 
 <div align ="center">
 
-###### *(Para 6 a 8 personas)*
-
 | Tabla        |Nutricional |
 | :----------: | :--------: |
 |Energia (Kcal)| 380 Kcal|
@@ -55,10 +53,5 @@ Ingredientes
 |Grasa (g)     | 14g|
 |Carboidratos (g)| 39g|
 |Fibra (g)     | 7.5g| 
-
-
-
-
-
 
 </div>
