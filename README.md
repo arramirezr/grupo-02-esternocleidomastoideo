@@ -17,5 +17,5 @@
 |1 mazo de cilantro|
 |1 chile verde sin semillas y sin cola|
 |sal al gusto (se agrega después de que revienteel maíz)|
-||
+
 </div>
