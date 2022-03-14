@@ -27,6 +27,7 @@
 |Sal al gusto (se agrega después de que reviente el maíz)|
 
 </div>
+<<<<<<< HEAD
 
 ```
 Ingredientes
@@ -55,3 +56,10 @@ Ingredientes
 |Fibra (g)     | 7.5g| 
 
 </div>
+=======
+| ¿Porque se llama gallinita pinta ? |
+|:--------------------------------------------------------------------------------------------------------------------:|
+Su nombre se debe a la apariencia que forman los granos blancos del maiz al mezclarse con el tono café del frijol.
+Se consume principalmente en el norte de Sonora a la hora del almuerzo o bien como plato principal del mediodia.
+|:---------------------------------------------------------------------------------------------------------------------:|
+>>>>>>> 5354c5c6dd479f4418b88249b1bc47da1d59a1dc
