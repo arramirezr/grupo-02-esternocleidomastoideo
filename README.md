@@ -48,10 +48,10 @@ Ingredientes
 
 | Tabla        |Nutricional |
 | :----------: | :--------: |
-|Energia (Kcal)| 380 Kcal|
-|Proteina (g)  | 33g|
+|Energía (Kcal)| 380 Kcal|
+|Proteína (g)  | 33g|
 |Grasa (g)     | 14g|
-|Carboidratos (g)| 39g|
+|Carbohidratos (g)| 39g|
 |Fibra (g)     | 7.5g| 
 
 </div>
