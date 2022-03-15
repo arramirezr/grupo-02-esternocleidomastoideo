@@ -8,6 +8,19 @@
 <img src="images/sopa_01.jpg" width="500">
 </p>
 
+<div align ="center">
+
+| Tabla        |Nutricional |
+| :----------: | :--------: |
+|Energía (Kcal)| 380 Kcal|
+|Proteína (g)  | 33g|
+|Grasa (g)     | 14g|
+|Carbohidratos (g)| 39g|
+|Fibra (g)     | 7.5g| 
+
+</div>
+
+
 ```
 Ingredientes
 
@@ -24,17 +37,15 @@ Ingredientes
 
 ```
 
-<div align ="center">
+```
 
-| Tabla        |Nutricional |
-| :----------: | :--------: |
-|Energía (Kcal)| 380 Kcal|
-|Proteína (g)  | 33g|
-|Grasa (g)     | 14g|
-|Carbohidratos (g)| 39g|
-|Fibra (g)     | 7.5g| 
+ PARA ACOMPAÑAR
 
-</div>
+•	 1/2 taza Cebolla , picada.
+•	 1/2 taza Hojas de Cilantro , finamente picado.
+•	 2 Chiles serranos , finamente picados o Chile Chiltepín al gusto.
+
+```
 
 <div align ="center">
 
