@@ -38,11 +38,9 @@ Ingredientes
 
 <div align ="center">
 
-| ¿Porque se llama gallinita pinta ? |
-| :----------------------------------:|
+**¿Porque se llama gallina pinta?**
 
 </div>
-
 
 <div align ="left">
 
