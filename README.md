@@ -8,26 +8,6 @@
 <img src="images/sopa_01.jpg" width="500">
 </p>
 
-<div align ="center">
-
-###### *(Para 6 a 8 personas)*
-
-| Ingredientes |
-|:------------:|
-|4 lts. de agua |
-|1/2 kg cola de res en trozos de 5 cm. aprox. |
-|1 kg. de pecho de res en trozos o chambarete|
-|(chamorro) en 3 cm. aprox.|
-|1/2 kg. de frijol pinto|
-|1/2 kg. de nixtamal o maíz precocido*|
-|1 cabeza de ajo|
-|1 cebolla blanca grande|
-|1 mazo de cilantro|
-|1 chile verde sin semillas y sin cola|
-|Sal al gusto (se agrega después de que reviente el maíz)|
-
-</div>
-
 ```
 Ingredientes
 
@@ -56,10 +36,24 @@ Ingredientes
 
 </div>
 
+<div align ="center">
+
 | ¿Porque se llama gallinita pinta ? |
-|:--------------------------------------------------------------------------------------------------------------------:|
+| :----------------------------------:|
+
+</div>
+
+
+<div align ="left">
+
 Su nombre se debe a la apariencia que forman los granos blancos del maiz al mezclarse con el tono café del frijol.
 Se consume principalmente en el norte de Sonora a la hora del almuerzo o bien como plato principal del mediodia.
-|:---------------------------------------------------------------------------------------------------------------------:|
-# Te compartimos un video de Cocinando con Alba Janeth
+
+</div>
+
+<div align ="center">
+
+#### Te compartimos un video de Cocinando con Alba Janeth
 [Video](https://www.youtube.com/watch?v=Rk3xEa-cAC8)
+
+</div>
