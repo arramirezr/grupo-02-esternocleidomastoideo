@@ -91,13 +91,11 @@ picosito, polvo de chile chiltepín; diferente a todos los acompañamientos que
 puede llevar el “pozole pobre” (también conocido de esta manera) éste se come
 con dos panes con mantequilla.
 
+</div>
+
 <p align ="center">
 <img src="images/sopa_02.jpg" width="300">
 </p>
-
-</div>
-
-
 
 <div align ="center">
 
