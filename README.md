@@ -72,6 +72,33 @@ Se consume principalmente en el norte de Sonora a la hora del almuerzo o bien co
 
 </div>
 
+<div align ="left">
+
+
+**TIP 1:**
+La Gallina Pinta es más sabrosa al día siguiente (recalentada).
+Una modalidad actual es sacar el mazo de cilantro, la cebolla, el chile y el ajo junto
+con una cucharada de caldo, licuarlo y verterlo nuevamente al caldo a través de un
+colador. Esto acentúa el sabor y da al caldo el carácter de sopa como si hubiera
+sido cocinado a fuego lento desde el día anterior.
+*Si se usa nixtamal del que se expende como maíz precocido en tiendas de
+autoservicio, el proceso se modifica poniendo el maíz, media hora después que el
+frijol y se deja cocer una hora.
+
+**TIP 2:**
+Aquí este puchero se sirve con cebolla picada, cilantro y si quieres agregarle algo
+picosito, polvo de chile chiltepín; diferente a todos los acompañamientos que
+puede llevar el “pozole pobre” (también conocido de esta manera) éste se come
+con dos panes con mantequilla.
+
+<p align ="center">
+<img src="images/sopa_02.jpg" width="300">
+</p>
+
+</div>
+
+
+
 <div align ="center">
 
 #### Te compartimos un video de Cocinando con Alba Janeth
