@@ -60,6 +60,18 @@ Se consume principalmente en el norte de Sonora a la hora del almuerzo o bien co
 
 </div>
 
+<div align ="left">
+
+**PROCEDIMIENTO:**
+
+1.- En una olla grande, se ponen a fuego lento los cuatro litros de agua y la carne. Cuando la carne suelta espuma, esta se retira con una cuchara hasta que el agua quede clara, se agrega el frijol (crudo) y el nixtamal (crudo)* bien lavado, la cebolla, el ajo y el chile verde (no se agrega sal porque si se hace no revienta el grano).
+
+2.- Se deja cocer por espacio de hora y media o hasta que la carne se ponga suave y el nixtamal haya reventado.
+
+3.- Se agrega el cilantro en mazo, se deja hervir durante 10 minutos. Se agrega sal al gusto y ya se puede servir.
+
+</div>
+
 <div align ="center">
 
 #### Te compartimos un video de Cocinando con Alba Janeth
