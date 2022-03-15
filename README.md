@@ -74,7 +74,6 @@ Se consume principalmente en el norte de Sonora a la hora del almuerzo o bien co
 
 <div align ="left">
 
-
 **TIP 1:**
 La Gallina Pinta es más sabrosa al día siguiente (recalentada).
 Una modalidad actual es sacar el mazo de cilantro, la cebolla, el chile y el ajo junto
