@@ -61,3 +61,5 @@ Ingredientes
 Su nombre se debe a la apariencia que forman los granos blancos del maiz al mezclarse con el tono café del frijol.
 Se consume principalmente en el norte de Sonora a la hora del almuerzo o bien como plato principal del mediodia.
 |:---------------------------------------------------------------------------------------------------------------------:|
+# Te compartimos un video de Cocinando con Alba Janeth
+[Video](https://www.youtube.com/watch?v=Rk3xEa-cAC8)
