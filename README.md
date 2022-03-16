@@ -102,6 +102,13 @@ con dos panes con mantequilla.
 En muchas de las historias las mujeres abarcan el papel principal en la realización y creación de los platillos que hoy conocemos como tradicionales, pero en esta historia se dice que la Gallina Pinta fue creada por los hombres.
 
 El Chef Iván Ceceña nos cuenta que una de las versiones de el origen de este platillo se da a partir de un grupo de rancheros que salían en búsqueda de ganado para llevar a sus hogares y domesticarlos; en esta búsqueda, la solución práctica para alimentarse fue de uno de los rancheros, quien colocó el maíz en la olla de los frijoles, agregándole unos trozos de carne, así de sencillo y rápido.
+
+En cuanto al nombre aún existen varios debates; la primer leyenda dice que este nombre se le dio debido al color que le da los frijoles al grano y al caldo final, que dan una alusión a una gallina pinta.
+
+Otra de las historias dice que mientras se estaba cocinando el puchero, una gallina saltaba sobre la cazuela y entonces todos los presentes gritaban “cuidado con la gallina pinta”; y aunque no existe un registro exacto del origen de este platillo, podemos elegir el que les guste más.
+
+Este plato es muy representativo de Sonora, pues personifica las raíces y tradiciones en este estado, al igual que a muchos sonorenses les recuerda los sabores de su infancia.
+
 </div>
 
 <p align ="center">
