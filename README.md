@@ -118,6 +118,6 @@ Este plato es muy representativo de Sonora, pues personifica las raíces y tradi
 <div align ="center">
 
 #### Te compartimos un video de Cocinando con Alba Janeth
-[Video](https://www.youtube.com/watch?v=Rk3xEa-cAC8)
+[Video](https://www.youtube.com/watch?v=Rk3xEa-cAC8):clapper:
 
 </div>
